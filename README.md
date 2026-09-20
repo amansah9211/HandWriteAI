@@ -39,9 +39,8 @@ HandWriteAI
 ├── app/
 │   └── Backend/
 │       ├── main.py
-│       ├── emnist_cnn.keras
-│       ├── result.json
-│       └── debug_processed.png
+│       ├── emnist_cnn.keras 
+│       └── result.json
 │
 ├── requirements.txt
 └── README.md
